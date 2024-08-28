@@ -97,3 +97,7 @@ body {
     background-image: url(./assets/beach.avif);
     grid-column: span 2
 }
+
+.text-area-left {
+    flex-basis: 30%;
+}
